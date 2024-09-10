@@ -1,6 +1,6 @@
 # Notez
 
-![base](file://./assets/base.jpg)
+![](./assets/base.jpg)
 
 A Copilot / Cursor Like AI Markdown
 
