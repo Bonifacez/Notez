@@ -1,2 +1,3 @@
 # Notez
-A Copilot / Cursor Like AI Markdown Backend over tRPC
+
+A Copilot / Cursor Like AI Markdown Editor and can run Local Fully!
