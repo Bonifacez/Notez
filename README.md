@@ -1,8 +1,10 @@
 # Notez — A Privacy‑First AI Writing & Knowledge Activation Space
 
-[中文版本 Chinese README](Readme-zh.md)
+[中文版本 Chinese README](README-zh.md)
 
 Official Website: [notezapp.com](https://notezapp.com)  •  Download: [notezapp.com/download](https://notezapp.com/download)
+
+![notez](asstes/notez.png)
 
 Notez is a serious writing environment that combines a local knowledge base with trustworthy AI assistance. Instead of pushing your documents to a black‑box cloud, Notez keeps the full chain (documents, indices, embeddings, citations) local by default while selectively and minimally invoking external language models only with pruned relevant fragments. The goal is not “generate everything for you,” but to reduce friction across research, drafting, verification, and long‑form iteration.
 
