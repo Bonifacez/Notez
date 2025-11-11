@@ -4,7 +4,7 @@
 
 官方网站： [notezapp.com](https://notezapp.com)  •  下载： [notezapp.com/download](https://notezapp.com/download)
 
-![notez](asstes/notez.png)
+![notez](asstes/notez-zh.png)
 
 Notez 是一个面向“严肃写作 / 深度内容生产”场景的本地优先写作与知识协同空间。它不是把你的文档整体上传到不透明云端再调用一个通用模型，而是在本地完成文档存储、解析、索引、向量、引用追踪，仅在需要生成或检索时，裁剪最小必要的上下文片段发送给外部模型。目标不是“一键全自动写完”，而是系统性降低：检索 → 草稿 → 引证核对 → 多轮扩展 的整体摩擦成本。
 
